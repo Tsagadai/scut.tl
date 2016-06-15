@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Scuttle</title>
- <link href="http://scut.tl/atom.xml" rel="self"/>
- <link href="http://scut.tl/"/>
- <updated>2016-06-15T16:00:36+10:00</updated>
+ <link href="http://scut.tlhttp://tsagadai.github.io/scut.tl//atom.xml" rel="self"/>
+ <link href="http://scut.tlhttp://tsagadai.github.io/scut.tl//"/>
+ <updated>2016-06-15T16:25:55+10:00</updated>
  <id>http://scut.tl</id>
  <author>
    <name>Chris Curran</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>That strange sinking feeling</title>
-   <link href="http://scut.tl/2016/06/15/sinking-feeling.html"/>
+   <link href="http://scut.tlhttp://tsagadai.github.io/scut.tl//2016/06/15/sinking-feeling.html"/>
    <updated>2016-06-15T00:00:00+10:00</updated>
    <id>http://scut.tl/2016/06/15/sinking-feeling</id>
    <content type="html">&lt;p&gt;Somehow the water is rising up from below. Cold, wet feet stand upon a slanting wooden deck.&lt;/p&gt;
