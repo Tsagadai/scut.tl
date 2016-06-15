@@ -1,10 +1,10 @@
 # Permalinks
-permalink:           pretty
+permalink:
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Scuttle
+tagline:             When all else fails
+url:                 http://scut.tl
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Chris Curran
+  url:               https://twitter.com/Tsagadai
+  email:             chris@scut.tl
 
 # Custom vars
 version:             2.0.0
@@ -30,3 +30,4 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - github-pages
